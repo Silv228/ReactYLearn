@@ -1,6 +1,5 @@
-# For Y_Lab
-login: Y_LAB@gmail.com
-password: 123456
-
-
-
+# For Y_LAB
+## Test data 🍕
+| **login** | **password** | 
+|------------------|-----------| 
+| Y_LAB@gmail.com | 123456 |
