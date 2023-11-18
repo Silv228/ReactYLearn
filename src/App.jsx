@@ -7,7 +7,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route index element={<Form />} />
-        <Route path='/success' element={<h1 style={{ color: "white" }}>Success</h1>} />
+        <Route path='/success' element={<h1 style={{ color: "white"}}>Success)</h1>} />
       </Routes>
     </BrowserRouter>
   )
